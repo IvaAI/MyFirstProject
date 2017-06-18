@@ -1,5 +1,6 @@
 data <- c(1,2,3)
 list <- l()
 count <- function(x){
-    x+4
+    res <- round(x+4, 2)
+    return(res)
 }

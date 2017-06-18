@@ -1,1 +1,1 @@
-data <- c("A", "B", "C", "CC")
+data <- c("A", "B", "C", "CC", "D")
